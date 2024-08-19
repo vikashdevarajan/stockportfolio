@@ -1,0 +1,11 @@
+import React from 'react'; function About() { return (
+<div className="about-page">
+  <h1>About Us</h1>
+  <p>
+    Welcome to the Stock Market Portfolio App. Our platform provides users with
+    real-time stock market information, enabling them to track and manage their
+    investments with ease. Our mission is to empower investors with the tools
+    and insights needed to make informed financial decisions.
+  </p>
+</div>
+); } export default About;
